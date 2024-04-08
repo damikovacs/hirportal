@@ -1,0 +1,16 @@
+#container{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+header{
+    background-color: gray;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+body{
+    background-color: grey;
+}
